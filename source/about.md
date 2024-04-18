@@ -1,8 +1,8 @@
 ---
 title: About
 description: About me
-extends: _layouts.master
-section: body
+extends: _layouts.documentation
+section: content
 ---
 
 Hello!
